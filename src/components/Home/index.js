@@ -1,6 +1,5 @@
 import {Component} from 'react'
 import {ThreeDots} from 'react-loader-spinner'
-// import {IoIosArrowDown} from 'react-icons/io'
 
 import Cookies from 'js-cookie'
 import ProductDetails from '../ProductDetails'
